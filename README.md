@@ -4,5 +4,5 @@ codicのCLインターフェース
 
 ## License
 
-Copyright © 2014 FIXME
+Copyright © 2014 ganmacs
 
